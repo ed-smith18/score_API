@@ -1,4 +1,4 @@
 # score_API
-This is an API built to pull and display sports scores from theScore.com.
+This is an API is set to retreive scores from a given league (currently set to NBA).
 
 (GUI to display scores is in development)
